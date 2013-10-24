@@ -25,21 +25,21 @@ namespace Kentos
         {
             if (ValidUser(txtUsername.Text, txtPassword.Text))
             {
-                Response.Redirect("itsligo.ie");
+                Response.Redirect("http://itsligo.ie");
             }
             else
             {
-                Response.Redirect("hotmail.com");
+                Response.Redirect("http://hotmail.com");
             }
         }
 
             bool ValidUser(string user, string pass)
             {
-                string connStr =ConfigurationManager.ConnectionStrings["ConnectionString"].ConnectionString;
+                string connStr = ConfigurationManager.ConnectionStrings["ConnectionString"].ConnectionString;
                 using (SqlConnection conn = new SqlConnection(connStr))
                 {
                     conn.Open();
-                    string sql = "select * from LoginTable where email = @username and password = @password";
+                    string sql = "select * from LoginTable where username = @username and password = @password";
                     SqlCommand cmd = new SqlCommand(sql, conn);
                     cmd.Parameters.AddWithValue("@username", user);
                     cmd.Parameters.AddWithValue("@password", pass);
