@@ -1,0 +1,5 @@
+c:\users\thomas\documents\visual studio 2012\Projects\Kentos\Kentos\obj\Debug\Kentos.csprojResolveAssemblyReference.cache
+c:\users\thomas\documents\visual studio 2012\Projects\Kentos\Kentos\bin\Kentos.dll
+c:\users\thomas\documents\visual studio 2012\Projects\Kentos\Kentos\bin\Kentos.pdb
+c:\users\thomas\documents\visual studio 2012\Projects\Kentos\Kentos\obj\Debug\Kentos.dll
+c:\users\thomas\documents\visual studio 2012\Projects\Kentos\Kentos\obj\Debug\Kentos.pdb
