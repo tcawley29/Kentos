@@ -3,3 +3,8 @@ c:\users\thomas\documents\visual studio 2012\Projects\Kentos\Kentos\bin\Kentos.d
 c:\users\thomas\documents\visual studio 2012\Projects\Kentos\Kentos\bin\Kentos.pdb
 c:\users\thomas\documents\visual studio 2012\Projects\Kentos\Kentos\obj\Debug\Kentos.dll
 c:\users\thomas\documents\visual studio 2012\Projects\Kentos\Kentos\obj\Debug\Kentos.pdb
+D:\repo\Kentos\Kentos\Kentos\bin\Kentos.dll
+D:\repo\Kentos\Kentos\Kentos\bin\Kentos.pdb
+D:\repo\Kentos\Kentos\Kentos\obj\Debug\Kentos.csprojResolveAssemblyReference.cache
+D:\repo\Kentos\Kentos\Kentos\obj\Debug\Kentos.dll
+D:\repo\Kentos\Kentos\Kentos\obj\Debug\Kentos.pdb
